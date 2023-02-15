@@ -151,6 +151,5 @@ int main() {
 			}
 		}
 	}
-	printf("%d", max);
-
+	printf("%d", max); //두 방을 합쳐 최대 방의 크기를 출력
 }
